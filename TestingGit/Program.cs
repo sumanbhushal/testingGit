@@ -10,6 +10,7 @@ namespace TestingGit
     {
         static void Main(string[] args)
         {
+            //some comment 
             var test = "";
         }
     }
